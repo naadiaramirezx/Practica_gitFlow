@@ -1,0 +1,17 @@
+#DEPENDENCIAS DE NODE
+node_modules/
+
+#ARCHIVO DE CONDIG Y LLAVES SECRETAS
+.env
+.env.local
+*.env
+*.pem
+*.key
+
+#ARCHIVOOS DEL SISTEMA
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+
